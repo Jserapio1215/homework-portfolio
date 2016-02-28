@@ -1,0 +1,32 @@
+body {
+	background-color: #F5F5DC;
+	font-family: serif;
+
+}
+nav {
+	color: green;
+	font-size: 12;
+	text-align: center;
+}
+h1.underline 	{
+	color: green;
+	text-align: center;
+	text-decoration: underline;
+}
+h2.underline {
+	color: blue;
+	text-decoration: underline;
+}
+p {
+	color: blue;
+}
+img {
+	border: 1px solid black;
+	padding: 5px;
+}
+li.bold {
+	font-size: 24;
+}
+p.center {
+	text-align: center;
+}
